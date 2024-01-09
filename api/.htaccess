@@ -1,0 +1,3 @@
+DirectoryIndex api.php
+RewriteEngine on
+RewriteRule ^customer customer.php [NC,L]
