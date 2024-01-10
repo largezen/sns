@@ -3,6 +3,7 @@ RewriteEngine on
 RewriteRule ^home page/home.php [NC,L]
 RewriteRule ^MyProducts page/myproduct.php [NC,L]
 RewriteRule ^RaiseTickets page/complains.php [NC,L]
+RewriteRule ^Service page/services.php [NC,L]
 
 Options -Indexes
 

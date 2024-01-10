@@ -865,7 +865,6 @@ h6 {
   position: relative;
   flex-shrink: 0;
   flex-grow: 0;
-  min-width: 64px;
 }
 
 .dashboard .activity .activity-item .activite-label::before {
@@ -1265,3 +1264,4 @@ h6 {
   font-weight: 600;
   line-height: 20px; /* 50% */
 }
+

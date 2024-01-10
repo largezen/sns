@@ -17,3 +17,9 @@
     <i class="bi bi-chevron-right ms-auto"></i>
   </a>
 </li>
+<li class="nav-item">
+  <a class="nav-link" href="Service">
+  <i class="bi bi-file-earmark-ruled"></i><span>Services</span>
+    <i class="bi bi-chevron-right ms-auto"></i>
+  </a>
+</li>
